@@ -12,3 +12,8 @@ Get's all the description data about restaraunts records. Example of usage is in
 **GoogleMaps.ipynb** - scrapping script builded on selenium and chromium webdriver.
 Get's all the description data about restaraunts records. Example of usage is in notebook.
 For data scrapping names of the restaurants from TripAdvisor was used as reference to search querries.
+
+## About data
+**data** - folder to store data for example runs of scrapping scripts
+
+**collected-data** - folder to store all the data (RAW) scrapped from the TripAdvisor and GoggleMaps
